@@ -6,85 +6,73 @@
 
 #IncludeRegexTransform: 
 
-../libft/libft.h
-string.h
--
-unistd.h
--
-stdlib.h
--
-limits.h
--
-
-/Users/mstefani/RTv1/gnl/get_next_line.c
+/home/mstefani/CLionProjects/RTv1/gnl/get_next_line.c
 ../include/RTv1.h
-/Users/mstefani/RTv1/include/RTv1.h
+/home/mstefani/CLionProjects/RTv1/include/RTv1.h
 get_next_line.h
-/Users/mstefani/RTv1/gnl/get_next_line.h
+/home/mstefani/CLionProjects/RTv1/gnl/get_next_line.h
 
-/Users/mstefani/RTv1/gnl/get_next_line.h
+/home/mstefani/CLionProjects/RTv1/gnl/get_next_line.h
 ../include/RTv1.h
-/Users/mstefani/RTv1/include/RTv1.h
+/home/mstefani/CLionProjects/RTv1/include/RTv1.h
 
-/Users/mstefani/RTv1/include/RTv1.h
+/home/mstefani/CLionProjects/RTv1/include/RTv1.h
 unistd.h
 -
 stdlib.h
 -
 stdio.h
 -
-mlx.h
--
 fcntl.h
 -
-libft/libft.h
-/Users/mstefani/RTv1/include/libft/libft.h
+../libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_bzero.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_bzero.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_join_and_free.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_join_and_free.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_memalloc.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_memalloc.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_memdel.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_memdel.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_strchr.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_strchr.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_strclr.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_strclr.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_strdel.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_strdel.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_strdup.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_strdup.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_strlcat.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_strlcat.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_strlen.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_strlen.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/ft_strsub.c
+/home/mstefani/CLionProjects/RTv1/libft/ft_strsub.c
 libft.h
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 
-/Users/mstefani/RTv1/libft/libft.h
+/home/mstefani/CLionProjects/RTv1/libft/libft.h
 string.h
 -
 unistd.h
@@ -94,9 +82,11 @@ stdlib.h
 limits.h
 -
 
-/Users/mstefani/RTv1/src/main.c
+/home/mstefani/CLionProjects/RTv1/src/ft_color.c
 ../include/RTv1.h
-/Users/mstefani/RTv1/include/RTv1.h
+/home/mstefani/CLionProjects/RTv1/include/RTv1.h
 
-/usr/local/include/mlx.h
+/home/mstefani/CLionProjects/RTv1/src/main.c
+../include/RTv1.h
+/home/mstefani/CLionProjects/RTv1/include/RTv1.h
 

@@ -26,5 +26,4 @@ add_executable(RTv1
         include/RTv1.h
         src/main.c src/ft_color.c)
 
-target_link_libraries(RTv1
-        LINK_PUBLIC /usr/local/lib/libmlx.a "-framework OpenGL" "-framework AppKit")
+target_link_libraries(RTv1)
