@@ -29,6 +29,7 @@ int	main(int argc, char** argv)
 {
 	if (!ft_checkarg(argc, argv))
 		return (0);
-	printf("OK\n");
+	write(1, "OK\n", 3);
+    rgb_to_int(255,0,0);
     return(1);
 }
